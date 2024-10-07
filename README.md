@@ -1,2 +1,2 @@
 # edu-manage-system
-EduManage is a MERN-based application designed for coaching institutes to efficiently manage student data. The platform enables the registration of students, tracking of fees, grades, and course enrollments, along with basic student information management. 
+EduManage is a MERN-based application designed specifically for coaching institute management. The platform enables administrators to monitor and manage student data efficiently. It includes functionality for registering students, tracking fees, grades, and course enrollments, and managing basic student information like profile pictures. The system features a comprehensive admin dashboard for adding, editing, and overseeing all student-related data.
